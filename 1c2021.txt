@@ -519,3 +519,250 @@ http://neonp2p.com:25461/guijandira/12gui34jan/981562
 http://neonp2p.com:25461/guijandira/12gui34jan/981563
 #EXTINF:-1 tvg-id="TV Senado" tvg-name="TV SENADO" tvg-logo="http://01.perfeita.in:80/images/eff99352da9aa359f20d6bd9a2dc1127.jpg" group-title="CANAIS ABERTOS",TV SENADO
 http://neonp2p.com:25461/guijandira/12gui34jan/981564
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 1 4K FHDR
+http://x00.so:80/george8218/8sXpB/103524.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
+http://x00.so:80/george8218/8sXpB/72977.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72978.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
+http://x00.so:80/george8218/8sXpB/72979.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
+http://x00.so:80/george8218/8sXpB/72980.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 2 4K FHDR
+http://x00.so:80/george8218/8sXpB/103523.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
+http://x00.so:80/george8218/8sXpB/72981.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72982.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
+http://x00.so:80/george8218/8sXpB/72983.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
+http://x00.so:80/george8218/8sXpB/72984.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 3 4K FHDR
+http://x00.so:80/george8218/8sXpB/103522.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
+http://x00.so:80/george8218/8sXpB/72985.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72986.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
+http://x00.so:80/george8218/8sXpB/72987.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
+http://x00.so:80/george8218/8sXpB/72988.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 4 4K FHDR
+http://x00.so:80/george8218/8sXpB/103521.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
+http://x00.so:80/george8218/8sXpB/72989.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72990.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 HD
+http://x00.so:80/george8218/8sXpB/72991.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 SD
+http://x00.so:80/george8218/8sXpB/72992.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Copa Catarinense 1 HD
+http://x00.so:80/george8218/8sXpB/96011.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Copa Catarinense 2 HD
+http://x00.so:80/george8218/8sXpB/96012.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Copa Catarinense 3 HD
+http://x00.so:80/george8218/8sXpB/96013.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 1 4K FHDR
+http://x00.so:80/george8218/8sXpB/103515.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 FHD
+http://x00.so:80/george8218/8sXpB/96505.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 FHD [H265]
+http://x00.so:80/george8218/8sXpB/96506.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 HD
+http://x00.so:80/george8218/8sXpB/96507.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 SD
+http://x00.so:80/george8218/8sXpB/96508.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 2 4K FHDR
+http://x00.so:80/george8218/8sXpB/103514.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 FHD
+http://x00.so:80/george8218/8sXpB/96509.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 FHD [H265]
+http://x00.so:80/george8218/8sXpB/96510.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 HD
+http://x00.so:80/george8218/8sXpB/96511.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 SD
+http://x00.so:80/george8218/8sXpB/96512.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 3 HD
+http://x00.so:80/george8218/8sXpB/101617.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 4 HD
+http://x00.so:80/george8218/8sXpB/101618.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 5 HD
+http://x00.so:80/george8218/8sXpB/101619.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 6 HD
+http://x00.so:80/george8218/8sXpB/101620.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 7 HD
+http://x00.so:80/george8218/8sXpB/101621.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 HD
+http://x00.so:80/george8218/8sXpB/71860.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
+http://x00.so:80/george8218/8sXpB/72630.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 3 HD
+http://x00.so:80/george8218/8sXpB/71861.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 4 HD
+http://x00.so:80/george8218/8sXpB/71859.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 1 FHD
+http://x00.so:80/george8218/8sXpB/73254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 2 FHD
+http://x00.so:80/george8218/8sXpB/73255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 3 FHD
+http://x00.so:80/george8218/8sXpB/73256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 4 FHD
+http://x00.so:80/george8218/8sXpB/73257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 5 FHD
+http://x00.so:80/george8218/8sXpB/73258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 6 FHD
+http://x00.so:80/george8218/8sXpB/73259.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
+http://x00.so:80/george8218/8sXpB/71907.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+http://x00.so:80/george8218/8sXpB/71908.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
+http://x00.so:80/george8218/8sXpB/71909.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
+http://x00.so:80/george8218/8sXpB/71910.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
+http://x00.so:80/george8218/8sXpB/71921.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | 4K [FHDR]",ESPN Brasil 4K FHDR
+http://x00.so:80/george8218/8sXpB/90640.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD
+http://x00.so:80/george8218/8sXpB/71911.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD [H265]
+http://x00.so:80/george8218/8sXpB/71912.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil HD
+http://x00.so:80/george8218/8sXpB/71913.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil SD
+http://x00.so:80/george8218/8sXpB/71914.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | 4K [FHDR]",ESPN Extra 4K FHDR
+http://x00.so:80/george8218/8sXpB/103505.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Extra FHD
+http://x00.so:80/george8218/8sXpB/71915.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD [H265]
+http://x00.so:80/george8218/8sXpB/71916.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
+http://x00.so:80/george8218/8sXpB/71917.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
+http://x00.so:80/george8218/8sXpB/71918.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD
+http://x00.so:80/george8218/8sXpB/71919.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
+http://x00.so:80/george8218/8sXpB/71920.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
+http://x00.so:80/george8218/8sXpB/71922.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
+http://x00.so:80/george8218/8sXpB/71923.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | 4K [FHDR]",ESPN2 4K FHDR
+http://x00.so:80/george8218/8sXpB/103504.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 1 HD
+http://x00.so:80/george8218/8sXpB/76671.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 2 HD
+http://x00.so:80/george8218/8sXpB/76672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD
+http://x00.so:80/george8218/8sXpB/104910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD [H265]
+http://x00.so:80/george8218/8sXpB/104913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel HD
+http://x00.so:80/george8218/8sXpB/104911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel SD
+http://x00.so:80/george8218/8sXpB/104912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch
+http://x00.so:80/george8218/8sXpB/73005.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 2
+http://x00.so:80/george8218/8sXpB/79316.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 3
+http://x00.so:80/george8218/8sXpB/79317.m3u8
+http://x00.so:80/george8218/8sXpB/98395.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
+http://x00.so:80/george8218/8sXpB/71954.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD
+http://x00.so:80/george8218/8sXpB/71952.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
+http://x00.so:80/george8218/8sXpB/71953.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
+http://x00.so:80/george8218/8sXpB/71955.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
+http://x00.so:80/george8218/8sXpB/71956.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",Fox Sports 4K FHDR
+http://x00.so:80/george8218/8sXpB/71959.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD
+http://x00.so:80/george8218/8sXpB/71957.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD [H265]
+http://x00.so:80/george8218/8sXpB/71958.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports HD
+http://x00.so:80/george8218/8sXpB/71960.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports SD
+http://x00.so:80/george8218/8sXpB/71961.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
+http://x00.so:80/george8218/8sXpB/72264.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
+http://x00.so:80/george8218/8sXpB/72262.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://x00.so:80/george8218/8sXpB/72263.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
+http://x00.so:80/george8218/8sXpB/72265.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
+http://x00.so:80/george8218/8sXpB/72266.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 2 4K FHDR
+http://x00.so:80/george8218/8sXpB/103482.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
+http://x00.so:80/george8218/8sXpB/72237.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72238.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
+http://x00.so:80/george8218/8sXpB/72239.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
+http://x00.so:80/george8218/8sXpB/72240.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 3 4K FHDR
+http://x00.so:80/george8218/8sXpB/103481.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
+http://x00.so:80/george8218/8sXpB/72241.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72242.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
+http://x00.so:80/george8218/8sXpB/72243.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
+http://x00.so:80/george8218/8sXpB/72244.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 4 4K FHDR
+http://x00.so:80/george8218/8sXpB/103480.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
+http://x00.so:80/george8218/8sXpB/72245.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72246.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
+http://x00.so:80/george8218/8sXpB/72247.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
+http://x00.so:80/george8218/8sXpB/72248.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 5 4K FHDR
+http://x00.so:80/george8218/8sXpB/103479.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD
+http://x00.so:80/george8218/8sXpB/72249.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72250.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
+http://x00.so:80/george8218/8sXpB/72251.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
+http://x00.so:80/george8218/8sXpB/72252.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 6 4K FHDR
+http://x00.so:80/george8218/8sXpB/103478.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD
+http://x00.so:80/george8218/8sXpB/72253.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72254.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
+http://x00.so:80/george8218/8sXpB/72255.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
+http://x00.so:80/george8218/8sXpB/72256.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 7 4K FHDR
+http://x00.so:80/george8218/8sXpB/103477.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD
+http://x00.so:80/george8218/8sXpB/72257.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://x00.so:80/george8218/8sXpB/72258.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
+http://x00.so:80/george8218/8sXpB/72259.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
+http://x00.so:80/george8218/8sXpB/72260.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
+http://x00.so:80/george8218/8sXpB/72261.m3u8
